@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "y",
+  "main": "y",
+  "dependencies": {
+    "browserify": "^16.5.2",
+    "dotenv": "^8.2.0",
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "set NODE_ENV=dev && browserify main.js -o bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "y"
+  ],
+  "author": "y",
+  "license": "ISC"
+}
